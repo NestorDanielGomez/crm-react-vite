@@ -35,14 +35,6 @@
       "telefono": "12345678",
       "notas": "asd",
       "id": 5
-    },
-    {
-      "nombre": "Bauti",
-      "empresa": "NDesign",
-      "email": "ndgomezacuna@hotmail.com",
-      "telefono": 12345678,
-      "notas": "nota",
-      "id": 6
     }
   ]
 }
