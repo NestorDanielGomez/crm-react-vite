@@ -1,25 +1,12 @@
 {
   "clientes": [
     {
-      "id": 1,
-      "nombre": "Nestor",
-      "telefono": 12345678,
-      "email": "nestor@nestor.com",
-      "empresa": "NDesign"
-    },
-    {
-      "id": 2,
-      "nombre": "Leticia",
-      "telefono": 12345678,
-      "email": "Leticia@Leticia.com",
-      "empresa": "NDesign"
-    },
-    {
-      "id": 3,
-      "nombre": "Rene",
-      "telefono": 12345678,
+      "nombre": "Rene actualizado",
+      "empresa": "NDesign",
       "email": "Rene@Rene.com",
-      "empresa": "NDesign"
+      "telefono": "12345678",
+      "notas": "nota",
+      "id": 3
     },
     {
       "id": 4,
