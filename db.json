@@ -2,45 +2,46 @@
   "clientes": [
     {
       "id": 1,
-      "nombre": "Juan",
-      "telefono": 102013313,
-      "email": "juan@juan.com",
-      "empresa": "Codigo Con Juan"
+      "nombre": "Nestor",
+      "telefono": 12345678,
+      "email": "nestor@nestor.com",
+      "empresa": "NDesign"
     },
     {
       "id": 2,
-      "nombre": "Karen",
-      "telefono": 138198313,
-      "email": "karen@juan.com",
-      "empresa": "Codigo Con Juan"
+      "nombre": "Leticia",
+      "telefono": 12345678,
+      "email": "Leticia@Leticia.com",
+      "empresa": "NDesign"
     },
     {
       "id": 3,
-      "nombre": "Josue",
-      "telefono": 31983913,
-      "email": "josue@juan.com",
-      "empresa": "Codigo Con Juan"
+      "nombre": "Rene",
+      "telefono": 12345678,
+      "email": "Rene@Rene.com",
+      "empresa": "NDesign"
     },
     {
       "id": 4,
-      "nombre": "Miguel",
-      "telefono": 319381983,
-      "email": "miguel@juan.com",
-      "empresa": "Codigo Con Juan"
+      "nombre": "Mercedes",
+      "telefono": 12345678,
+      "email": "Mercedes@Mercedes.com",
+      "empresa": "NDesign"
     },
     {
-      "id": 5,
-      "nombre": "Pedro",
-      "telefono": 1398198938,
-      "email": "pedro@juan.com",
-      "empresa": "Codigo Con Juan"
+      "nombre": "Alejandro a",
+      "empresa": "NDesign",
+      "email": "Alejandro@Alejandro.com",
+      "telefono": "12345678",
+      "notas": "asd",
+      "id": 5
     },
     {
-      "nombre": "asdad",
-      "empresa": "a",
+      "nombre": "Bauti",
+      "empresa": "NDesign",
       "email": "ndgomezacuna@hotmail.com",
-      "telefono": "a",
-      "notas": "qq",
+      "telefono": 12345678,
+      "notas": "nota",
       "id": 6
     }
   ]

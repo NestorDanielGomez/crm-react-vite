@@ -56,7 +56,7 @@ const NuevoCliente = () => {
           <input
             type="submit"
             className="mt-5 w-full cursor-pointer bg-blue-600 p-3 uppercase font-bold text-white text-lg hover:bg-blue-900"
-            value="Registrar Clientes"
+            value="Registrar Cliente"
           />
         </Form>
       </div>
